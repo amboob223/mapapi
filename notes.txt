@@ -1,0 +1,6 @@
+go on map box and make an account and use the dev toops in the inspectt to go to senesors thats how you change location 
+and the navigator api gives current location info navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
+    enableHighAccuracy: true
+});
+you got to go where it say integrate map box
+to get the components api makers and controls like navogtaor control
